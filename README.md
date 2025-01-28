@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I am currently working on an incremental clicker game that allows you to create music with it. Any support would go a massive way.
 <!--
 **synthinityofstars/synthinityofstars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
